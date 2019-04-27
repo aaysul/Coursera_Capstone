@@ -1,2 +1,2 @@
 # Coursera_Capstone
-The repository is for Coursera capstone project in Aplied Data Science Specialization
+The repository is for capstone project in Coursera Aplied Data Science Specialization
